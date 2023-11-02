@@ -1,4 +1,4 @@
-  =>  Template Name    : iCREAM - Ice Cream Shop Website Template
+  =>  Template Name    : iCREAM - Ice Cream Shop Website Template featureA
 
   =>  Template Link    : https://htmlcodex.com/ice-cream-shop-website-template
 
